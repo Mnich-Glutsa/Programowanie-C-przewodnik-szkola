@@ -13,5 +13,5 @@ int tablica[3] = {9, 18, 27};
 tablica[0] == 9;
 tablica[2] == 27;
 ```
-Liczbę elementów zapisujemy licząc od 1. Jak zapiszemy `int tablica[1]`, to zapiszemy w tablicy jeden element. Jednak numer elementu liczymy od 0. Tak jak zapisałem wyżej. Tablica ma trzy elementy, z czego element numer 0 równy jest 9, a element numer 2 jest równy 27. Element numer 3 nie istnieje w tej tablicy, bo byłby to 4 element w tej tablicy. Kumamy? mam nadzieję. Jeśli chcemy wywołać zmienną z tablicy, piszemy nazwę tablicy i po niej (bez spacji) piszemy numer elementu w `[]`. O tak: `tablica[0]`.<br>
+Liczbę elementów zapisujemy licząc od 1. Jak zapiszemy `int tablica[1]`, to zapiszemy w tablicy jeden element. Jednak numer elementu liczymy od 0. Tak jak zapisałem wyżej. Tablica ma trzy elementy, z czego element numer 0 równy jest 9, a element numer 2 jest równy 27. Element numer 3 nie istnieje w tej tablicy, bo byłby to 4 element w tej tablicy. Kumamy? Mam nadzieję. Jeśli chcemy wywołać zmienną z tablicy, piszemy nazwę tablicy i po niej (bez spacji) piszemy numer elementu w `[]`. O tak: `tablica[0]`.<br>
 Na marginesie: zapis `zmienna == x` sam, bez niczego wokół, jest niepoprawny i nic nie robi. Zapisuję go tylko i wyłącznie dla zobrazowania posiadanych wartości.
