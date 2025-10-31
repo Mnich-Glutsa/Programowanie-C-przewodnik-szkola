@@ -1,6 +1,8 @@
 # Wstęp
 Proste (mam nadzieję) wytłumaczenie programowania w C dla ludzi z mojej klasy którzy mniej ogarniają. Docelowo chce tłumaczyć wszystko z lekcji, ale zobaczymy jak wyjdzie. Na razie opisze nowości które drugiej grupie spowodowały lekkie problemy
 
+## [kliknij tutaj by otworzyć spis treści](spis_tresci.md)
+
 # #include `<iostream>`
 Musi się to znajdować na początku każdego waszego programu. Dlaczego? Dowiecie się później. Nie teraz.
 
