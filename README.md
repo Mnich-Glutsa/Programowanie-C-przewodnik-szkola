@@ -1,5 +1,5 @@
 # Wstęp
-Proste (mam nadzieję) wytłumaczenie programowania w C dla ludzi z mojej klasy którzy mniej ogarniają. Docelowo chce tłumaczyć wszystko z lekcji, ale zobaczymy jak wyjdzie. Na razie opisze nowości które drugiej grupie spowodowały lekkie problemy
+Proste (mam nadzieję) wytłumaczenie programowania w C dla ludzi z mojej klasy którzy mniej ogarniają. Docelowo chce tłumaczyć wszystko z lekcji, ale zobaczymy jak wyjdzie. Na razie opisze nowości które drugiej grupie spowodowały lekkie problemy. Niestety, czytanie tego dokumentu nie nauczy was programowania. <ins>**Do tego wymagane jest regulare ćwiczenie.**</ins> Polecam zacząć robić małymi kroczkami jakieś swoje projekty. Jakie tylko chcecie. Dwie/trzy godzinki tygodniowo powinny wystarczyć. Programowanie to przede wszystkim sztuka myślenia jak programista. A tego trzeba się nauczyć.
 
 ## [kliknij tutaj by otworzyć spis treści](spis_tresci.md)
 
